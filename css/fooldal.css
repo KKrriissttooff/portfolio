@@ -1,6 +1,6 @@
 body{
 	margin:0;
-	background-image: url('https://../kepek/hatter.png');
+	background-image: url('../kepek/hatter.png');
 
 
 }
@@ -9,7 +9,7 @@ box-sizing: border-box
 
 }
 header{
-	background-image: url('https://../kepek/hatter2.jpg');
+	background-image: url('../kepek/hatter2.jpg');
 	color: goldenrod;
 	font-size: 80px;
 	font-weight: 700;
